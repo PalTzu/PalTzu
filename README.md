@@ -18,14 +18,14 @@ I'm currently learning C# and Unity and I'm also currently trying to make a gitb
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/e95284ca-de3a-4347-9b6e-f620eeedccfa" alt="1" style="width:100%;height:auto;">
+        <img src="" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="GIF" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">HealthSaga is an endless running game that has a health theme, It is inspired by Canabalt where Players must avoid obstacles while jumping to avoid falling.</td> <!--desc-->
+      <td valign="text-top"></td> <!--desc-->
       <td valign="text-top">======</td> <!--desc-->
     </tr>
     <tr>
