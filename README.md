@@ -11,7 +11,7 @@ I'm currently learning C# and Unity and I'm also currently trying to make a gitb
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Health Saga </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Pong 2D </a></th> <!--tittle-->
       <th width="50%" align="center"><a>=====</a></th> <!--tittle-->
     </tr>
   </thead>
