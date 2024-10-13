@@ -18,7 +18,7 @@ I'm currently learning C# and Unity and I'm also currently trying to make a gitb
   <tbody>
     <tr>
       <td align="center">
-        <img src="" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/6ff835e7-4939-48c8-8d5d-e0e5d67b7cb6" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="GIF" alt="2" style="width:100%;height:auto;">
