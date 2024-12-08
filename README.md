@@ -32,10 +32,6 @@ I'm currently learning C# and Unity and I'm also currently trying to make a gitb
       <td align="center"><a href="">Read More</a></td> <!--link1-->
       <td align="center"><a href="======">Read More</a></td> <!--link2-->
     </tr>
-    <tr>
-      <td align="center"><a href="">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="======">Trailer</a></td> <!--link2-->
-    </tr>
   </tbody>
 </table>
 
